@@ -29,7 +29,7 @@ int main(void)
         }
 
         if (check == 0) {
-            printf("No");
+            printf("No")
         }
 
         printf("\n");
